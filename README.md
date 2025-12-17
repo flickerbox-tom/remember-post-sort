@@ -6,3 +6,8 @@ This plugin remembers a users post type sort order preferences in the admin and 
 
 ![URL Params](https://github.com/user-attachments/assets/87555364-c986-4e4a-a336-8041792ed4e5)
 
+## Install
+
+- Create a folder titled `remember-post-sort` in your plugis folder
+- Download this PHP file and put it in the folder
+- Activate plugin in the admin
